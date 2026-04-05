@@ -121,6 +121,7 @@ A Java tool to automatically generate clickable table of contents for PDF files.
     </build>
 </project>
 
+> ⚠️ iText 9.5.0 may not be available in maven
     
     
    2.Configure input mapping <br>
